@@ -7,6 +7,7 @@ The goal of the Motor Thrust Test is to determine the reliability of the motors 
 
 ## Test Stand Design
 Completed Solidworks CAD Assembly and BOM is uploaded
+* CAD Assembly is named ZBarStand
 
 Manufacturing methods: horizontal bandsaw, mill, CNC mill (for Motor Mount)
 
