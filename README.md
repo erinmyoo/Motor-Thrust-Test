@@ -22,8 +22,17 @@ Important Features:
 ## Wind Tunnel Testing - Dynamic Thrust 
 Dynamic thrust testing will conduct a Wind Tunnel Test using various motor and propeller combinations. The Test Stand will be strapped on top of the car while driving at the Gannet's cruise speed of 14 m/s. 
 
+Status:
+* Script finished
+* Tested once
+* Needs further data/testing to determine if motor efficiency is consistently calculated to be ~37%
+
 ## Cyclic Marine Testing - Static Thrust
 Static thrust of the motor will be evaluated through Cyclic Marine Testing that simulates a multi-day mission at sea to validate corrosion mitigation. The motor will run continuously for 24 hours while the Test Stand dunks the motor in and out of the test tank filled with salt water.
+
+Status:
+* Script is mostly finished - issues with system receiving motor commands
+* Testing needs to start
 
 ## Test Script
 Python, ROS and MAVROS was used to automate testing and log data to a csv file.
