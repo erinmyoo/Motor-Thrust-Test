@@ -1,6 +1,6 @@
 NSF REU: Collaborative Human-Robot Interaction for Robots in the Field at University of Nevada, Reno
 
-For information about the full research project: [Paper](url)
+For information about the full research project: [Paper](https://github.com/erinmyoo/Motor-Thrust-Test/blob/main/REU_Erin_Yoo.pdf)
 
 # Motor-Thrust-Test
 The goal of the Motor Thrust Test is to determine the reliability of the motors chosen for a solar-powered UAV called the Gannet. Wind Tunnel and Cyclic Marine Testing will evaluate the performace of the motor-propeller combination that is reported to produce 0.8 kg of thrust at a speed of 14 m/s and cruise power of 110 W.
