@@ -19,6 +19,9 @@ Important Features:
 * Hardstops: two slots to press fit into Base Angle Brackets to contrain movement
 * Pitot Tube: measures air speed and ground speed, not included in CAD
 
+![20240730_125858](https://github.com/user-attachments/assets/025ddb74-54d1-44ea-b2b1-c6e69660c6eb)
+
+
 ## Wind Tunnel Testing - Dynamic Thrust 
 Dynamic thrust testing will conduct a Wind Tunnel Test using various motor and propeller combinations. The Test Stand will be strapped on top of the car while driving at the Gannet's cruise speed of 14 m/s. 
 
